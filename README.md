@@ -1,2 +1,0 @@
-# CoinDasherBETAVERSION
- coin dasher
